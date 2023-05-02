@@ -1,8 +1,5 @@
 # Qt/Qml
 
-# install gstreamer
-sudo apt-get install gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
-
 # steps to create qml projecte
 To create a .pro file for this QML program in Qt Creator, you can follow these steps:
 1. Open Qt Creator and select "New Project" from the welcome screen.
