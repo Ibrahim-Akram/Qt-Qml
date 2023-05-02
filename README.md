@@ -1,6 +1,7 @@
 # Qt/Qml
 
-# steps to create qml projecte
+# Steps to create qml project
+
 To create a .pro file for this QML program in Qt Creator, you can follow these steps:
 1. Open Qt Creator and select "New Project" from the welcome screen.
 2. In the "New Project" dialog, select "Qt Quick Application" and click "Choose..."
